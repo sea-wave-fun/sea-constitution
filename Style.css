@@ -1,0 +1,19 @@
+.center{
+    max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+    height: auto;
+    width: 50%;
+
+}
+
+html{
+    font-family: "Lexend", sans-serif;
+}
+
+.lexend {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
